@@ -3,6 +3,8 @@
 
 This disk image is based on the initial Qengineering Ubuntu 20.04 SD card image (https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html; https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image; distributed under BSD 3 license).
 
+L'image est dispobile ici : [https://esieeparis-my.sharepoint.com/:u:/g/personal/eva_dokladalova_esiee_fr/ETZL4yj5joRIm1R7Zl57YfsB-afkKnwoms-3MWzDFzWyzA?e=yByIb1](https://shorturl.at/bpyD3)
+
 Basic features :
 - Ultralytics libraries  (YoloV8 8.124) installed
 - Compatibility with TensorRT preserved
